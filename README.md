@@ -7,3 +7,5 @@ Sentiment Analysis using FinBert https://github.com/ProsusAI/finBERT
 Got ticker prices, industry, eps from Finnhub API https://github.com/Finnhub-Stock-API/finnhub-python
 Ran inferential statistics (Chi Square test of independence, one way ANOVA)
 
+https://nbviewer.jupyter.org/github/tcho187/bert-sentiment-ticker/blob/master/bert%20sentiment%20for%20tickers.ipynb
+
